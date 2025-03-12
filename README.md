@@ -66,7 +66,5 @@ Gradient Tape
 
 *Convolutional Neural Networks* (Contd.)
 
-- Kernels performing Convolution operations for feature extraction, Pooling layers to reduce spatial dimensions
-- Convolution over volume
-- CNN, ResNets architecture
+- ...
 
